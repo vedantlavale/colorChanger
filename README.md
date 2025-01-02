@@ -20,7 +20,7 @@ This project is a simple React application that allows users to change the backg
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/changethecolor.git
+   git clone https://github.com/vedantlavale/changethecolor.git
    cd changethecolor
    ```
 
